@@ -6,8 +6,8 @@ import Register from './components/Register/Register';
 function App() {
   return (
     <div className='App'>
-      <Homepage/>
-      {/* <Login/> */}
+      {/* <Homepage/> */}
+      <Login/>
       {/* <Register/> */}
     </div>
   );
